@@ -1,0 +1,17 @@
+//
+//  Release.xcconfig
+//  Training
+//
+//  Created by hideto.higashi on 2025/03/06.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = テンプレート
+
+// Bundle Identifier
+// PRODUCT_BUNDLE_IDENTIFIER = $(inherited)
+
+// APIサーバーURL
+// API_BASE_URL = 
