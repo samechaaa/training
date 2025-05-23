@@ -1,0 +1,33 @@
+{
+  "originHash" : "408aa848d01b1bb5b17533f772f1c75978573cf5443cdac5e4ebfdbf3aaae128",
+  "pins" : [
+    {
+      "identity" : "glpgs-ios-api-client",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:galapagos-ada/glpgs-ios-api-client.git",
+      "state" : {
+        "branch" : "higashi/add-api-client",
+        "revision" : "9bac68f8f122a47ad9f8d59f95c3dad5dcacc66b"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "c1805596154bb3a265fd91b8ac0c4433b4348fb0",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "version" : "600.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
