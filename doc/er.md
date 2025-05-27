@@ -2,16 +2,17 @@
 erDiagram
     Task {
         string title
-        string description
+        string description "optional"
         status status
-        datetime expiredDate
-        datetime createdDate
+        datetime expiredDate "optional"
+        datetime createdDate "optional"
         priority priority
     }
 
     Category {
         string name
         string color
+        boolean isDefault
     }
 
     Status {
